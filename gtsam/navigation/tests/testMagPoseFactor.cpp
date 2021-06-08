@@ -15,7 +15,7 @@
 #include <CppUnitLite/TestHarness.h>
 #include <gtsam/base/numericalDerivative.h>
 #include <gtsam/base/TestableAssertions.h>
-#include <gtsam_unstable/slam/MagPoseFactor.h>
+#include <gtsam/navigation/MagPoseFactor.h>
 
 using namespace gtsam;
 
